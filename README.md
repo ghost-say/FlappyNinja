@@ -22,7 +22,7 @@ Contact the development team at: **oussayos@gmail.com**
 
 ---
 
-**Keywords for search indexing**: multiplayer flappy bird clone, Unity flappy bird, flappy bird with friends, online flappy bird game, play flappy bird on Discord, Unity multiplayer game, flappy bird remake, flappy ninja game, flappy bird Unity Netcode, flappy bird VPS multiplayer
+**Keywords for search indexing**: multiplayer flappy bird clone, Unity flappy bird, flappy bird with friends, online flappy bird game, play flappy bird on Discord, Unity multiplayer game, flappy bird remake, flappy ninja game, flappy bird Unity Netcode, flappy bird VPS multiplayer, flappyninja , FlappyNinja , flappyNinja , flappy ninja
 
 ---
 
